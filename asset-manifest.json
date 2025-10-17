@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33391a38.css",
+    "main.js": "/static/js/main.7bcd0b58.js",
+    "static/media/slide1.jpg": "/static/media/slide1.38c804753db9da12fbe3.jpg",
+    "static/media/slide3.jpg": "/static/media/slide3.0f0ebd0711142ee6bc82.jpg",
+    "static/media/thumb-packages.jpg": "/static/media/thumb-packages.191e400acd7b8cc25286.jpg",
+    "static/media/main.jpg": "/static/media/main.761ca03bc3b1ea5191b9.jpg",
+    "static/media/slide2.jpg": "/static/media/slide2.26c83f67c1f89e75d064.jpg",
+    "static/media/footer.jpg": "/static/media/footer.0befd28b2807ab9a8169.jpg",
+    "static/media/thumb-amneities.jpg": "/static/media/thumb-amneities.6145330944dc7fae55ad.jpg",
+    "static/media/thumb-gallery.jpg": "/static/media/thumb-gallery.dda0d1b7659abf68e675.jpg",
+    "static/media/image6.jpg": "/static/media/image6.db370ade0e9650f2dfeb.jpg",
+    "static/media/sampleimage.jpg": "/static/media/sampleimage.f9ba7b64d17877fbfbcc.jpg",
+    "static/media/image5.jpg": "/static/media/image5.7754f1832d542345cd13.jpg",
+    "static/media/ofrimg3.jpg": "/static/media/ofrimg3.c8c80d47b87a919775b1.jpg",
+    "static/media/image7.jpg": "/static/media/image7.9de9e1629e28f1348d90.jpg",
+    "static/media/image8.jpg": "/static/media/image8.7e82bf2ceecff43f12cd.jpg",
+    "static/media/image9.jpg": "/static/media/image9.ed0d71533d2ecbb77b92.jpg",
+    "static/media/card2.jpg": "/static/media/card2.cf06c924d899e1f40d7c.jpg",
+    "static/media/ofrimg2.jpg": "/static/media/ofrimg2.20daa85eeaf91c8ad4d0.jpg",
+    "static/media/ofrimg1.jpg": "/static/media/ofrimg1.f0ac2b32d9bbcf5f31dd.jpg",
+    "static/media/card1.jpg": "/static/media/card1.34b1245f5e4645655a88.jpg",
+    "static/media/card3.jpg": "/static/media/card3.018445139a5a18009519.jpg",
+    "static/media/resortlogo.png": "/static/media/resortlogo.d390640795c44ddb0f65.png",
+    "index.html": "/index.html",
+    "main.33391a38.css.map": "/static/css/main.33391a38.css.map",
+    "main.7bcd0b58.js.map": "/static/js/main.7bcd0b58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33391a38.css",
+    "static/js/main.7bcd0b58.js"
+  ]
+}
